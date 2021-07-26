@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+}
+.navbar{
+  font-weight: 500;
+}
+.jumbotron{
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+#sosmed{
+  background-color: #e2edff;
+}
